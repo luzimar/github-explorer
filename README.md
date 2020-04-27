@@ -2,9 +2,6 @@
     <img alt="logo" title="logo" src=".readme/logo.svg" width="150px" />
 </h1>
 
-<h4 align="center">
-  Github Explorer
-</h4>
 <p align="center">
   <a href="#metro-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
