@@ -15,19 +15,19 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".readme/01.png" width="100%">
+  <img alt="Frontend" src=".readme/01.PNG" width="100%">
 </p>
 
 <p align="center">
-  <img alt="Frontend" src=".readme/02.png" width="100%">
+  <img alt="Frontend" src=".readme/02.PNG" width="100%">
 </p>
 
 <p align="center">
-  <img alt="Frontend" src=".readme/03.png" width="100%">
+  <img alt="Frontend" src=".readme/03.PNG" width="100%">
 </p>
 
 <p align="center">
-  <img alt="Frontend" src=".readme/04.png" width="100%">
+  <img alt="Frontend" src=".readme/04.PNG" width="100%">
 </p>
 
 ## :metro: Tecnologias
